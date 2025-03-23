@@ -25,7 +25,7 @@ This project automates the deployment of applications directly from a **GitHub r
 ## Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/opyash218/Git-to-direct-deploy.git
    cd your-project
    ```
 2. **Build Docker Image:**
